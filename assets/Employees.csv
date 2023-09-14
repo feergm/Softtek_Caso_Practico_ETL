@@ -1,0 +1,110 @@
+DEALERSHIP_ID,REGION,EMPLOYEE_ID,FIRST_NAME,LAST_NAME,ADDRESS,CITY,STATE,COUNTRY,PHONE NUMBER,FAX NUMBER,EMAIL,GENDER,POSITION TYPE,HIRE_DATE,DATE_ENTERED
+1,West,86445,Casey,Teague,29 Peachtree Pl Nw,San Francisco,California,United States,4048150463,4048150463,,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+1,West,86415,Alfred,Fadel,2029 Century Park E,San Francisco,California,United States,3105523400,3105523400,falfred@univ.edu,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+2,West,86420,Alex,David,5640 Franklin Ave,San Diego,California,United States,3234645505,3234645505,dalex@geocities.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+2,West,86423,Reynaldo,Reniva,1214 Silver Lake Blvd,San Diego,California,United States,2134138713,2134138713,rreynaldo@geocities.com,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+2,West,86426,Carl,Davidson,168 Belwood Ct,San Diego,California,United States,4083561435,4083561435,dcarl@yahoo.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+2,West,86440,Jolena,James,1225 S Wilton Pl,San Diego,California,United States,3237325656,3237325656,jjolena@univ.edu,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+2,West,86474,Mavis,Bradley,8601 Roberts Dr,San Diego,California,United States,7709987461,7709987461,bmavis@yahoo.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+2,West,86478,Arturo,Martinez,3573 Buford Hwy Ne,San Diego,California,United States,4043299857,4043299857,marturo@xyz.org,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+2,West,86498,Henry L,Andel,4785 Merlendale Ct Nw,San Diego,California,United States,4042554700,4042554700,,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+3,West,86414,Angelo,Accardo,1242 Center Ln,Seattle,Washington,United States,2098265752,2098265752,aangelo@compuserve.com,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+3,West,86416,Antonio O,Vela,3335 Garnet St,Seattle,Washington,United States,3232636087,3232636087,,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+4,West,86463,Kenneth,Gibson,189 Anderson Ave Nw,Scottsdale,Arizona,United States,4047928233,4047928233,gkenneth@hotmail.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+4,West,86466,Nick,Gibietis,1004 Marsh Trail Cir Ne,Scottsdale,Arizona,United States,7703966396,7703966396,gnick@univ.edu,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+4,West,86409,Joseph,James,221 W 41st,Scottsdale,Arizona,United States,3232315681,3232315681,jjoseph@mailcity.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+4,West,86412,Bobby P,Renna,1850 Whitley Ave,Scottsdale,Arizona,United States,3238564909,3238564909,rbobbyp@mailcity.com,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+5,West,86431,Anthony,Vela,131 N Record Ave,Los Angeles,California,United States,3232698579,3232698579,vanthony@geocities.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+5,West,,,Vela,131 N Record Ave,Los Angeles,California,United States,3232698579,3232698579,vanthony@geocities.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+5,West,86434,R R,Renfro,806 S Spaulding Ave,Los Angeles,California,United States,3239365604,3239365604,rrr@hotmail.com,M,EXECUTIVE,1/2/2003 0:00,1/2/2003 0:00
+5,West,86459,J F,Anderson,1818 Homestead Ave Ne,Los Angeles,California,United States,4048768794,4048768794,ajf@univ.edu,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+5,West,86406,Boun S,Lee,450 S Grand View St,Los Angeles,California,United States,2133864804,2133864804,,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+6,West,86424,Michael,Renk,3448 Sawtelle Blvd Apt 18,Newport Beach,California,United States,3103905216,3103905216,rmichael@univ.edu,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+6,West,86432,Jose P,Velasco,1027 W 110th St,Newport Beach,California,United States,3237579073,3237579073,vjosep@compuserve.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+6,West,86402,Jeffrey,James,11980 San Vicente Blvd,Newport Beach,California,United States,3108265414,3108265414,jjeffrey@hotmail.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+6,West,86403,Izhak,Jamatty,112 N Hayworth Ave,Newport Beach,California,United States,3239318755,3239318755,jizhak@geocities.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+7,West,86427,J H,Fadeley,682 Irolo St,Denver,Colorado,United States,2133805308,2133805308,,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+7,West,86453,Ebrahim,Fadakar,4018 Camero Ave,Denver,Colorado,United States,3236642918,3236642918,febrahim@geocities.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+7,West,86481,Holsie,King,4201 Angeles Vista Blvd,Denver,Colorado,United States,3232999551,3232999551,,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+7,West,86481,Holsie,King,4211 Angeles Vista Blvd,Denver,Colorado,United States,3232999551,3232999551,,M,SALESREP,1/2/2003 0:00,1/3/2003 0:00
+8,West,86428,David T,Acalin,4221 Wilshire Blvd,Sacramento,California,United States,3239378888,3239378888,adavidt@yahoo.com,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+8,West,86491,Christopher,Von Gal,230 Peachtree St Nw,Sacramento,California,United States,4048939977,4048939977,vchristopher@geocities.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+8,West,86428,David T,Acalin,4221 Wilshire Blvd,Sacramento,California,United States,3239378888,3239978888,adavidt@yahoo.com,M,MANAGER,1/2/2003 0:00,1/3/2003 0:00
+9,West,86439,Hagop,Jambaziam,1640 N Hobart Blvd,San Jose,California,United States,3234653014,3234653014,jhagop@hotmail.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+9,West,86411,Dean,Renly,7719 Lexington Ave,San Jose,California,United States,3238769727,3238769727,rdean@hotmail.com,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+9,West,86419,Alan,David,1925 Century Park E,San Jose,California,United States,3102038000,3102038000,dalan@xyz.org,M,SALESREP,1/3/2003 0:00,1/3/2003 0:00
+10,West,86448,Bernard,Davidson,9509 Sawyer St,Oakland,California,United States,3108391924,3108391924,dbernard@hotmail.com,M,SALESREP,1/3/2003 0:00,1/3/2003 0:00
+10,West,86472,William A,Brabson,2141 Springdale Rd Sw,Oakland,California,United States,4047668150,4047668150,bwilliama@yahoo.com,M,SALESREP,1/3/2003 0:00,1/3/2003 0:00
+10,West,86461,David C,Andersen,2236 Old Brooke Ln,Oakland,California,United States,7703941706,7703941706,adavidc@geocities.com,M,SALESREP,1/3/2003 0:00,1/3/2003 0:00
+10,West,86407,J,Kingsbury,3042 Rowena Dr,Oakland,California,United States,5624305744,5624305744,kj@xyz.org,M,MANAGER,1/3/2003 0:00,1/3/2003 0:00
+11,Central,86433,Harold,King,630 Mar Vista Dr,Dallas,Texas,United States,8055283030,8055283030,kharold@xyz.org,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+11,Central,86464,K W,Gibson,2312 Surrey Trl,Dallas,Texas,United States,4045591493,4045591493,,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+12,Central,86435,William L,Summer,166 S Rockingham Ave,Houston,Texas,United States,3104728191,3104728191,swilliaml@xyz.org,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+13,Central,86438,Larry,Wilbourn,1014 E 73d,Austin,Texas,United States,3235860724,3235860724,,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+13,Central,86484,A R,Pearce,10501 Wilshire Blvd,Austin,Texas,United States,3104741314,3104741314,par@compuserve.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+13,Central,86401,Harold F,King,25640 Moody Rd,Austin,Texas,United States,6509485382,6509485382,kharoldf@compuserve.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+14,Central,86442,Kirakosyan,Nuretsa,1428 N Normandie Ave,Chicago,Illinois,United States,3236645243,3236645243,nkirakosyan@yahoo.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+14,Central,86451,Thomas A,Acantilado,2034 S Genesee Ave,Chicago,Illinois,United States,3239365458,3239365458,,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+14,Central,,,Acantilado,2034 S Genesee Ave,Chicago,Illinois,United States,3239365458,3239365458,,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+14,Central,86456,Melvin M,Bradley,4070 Morning Trl,Chicago,Illinois,United States,4047666145,4047666145,,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+14,Central,86480,Alipio,King,7160 W 85th St Apt 1,Chicago,Illinois,United States,3102162982,3102162982,kalipio@geocities.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+15,Central,86429,Julian,Acebedo,735 S Saint Andrews Pl,Minneapolis,Minnesota,United States,2133807627,2133807627,,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+15,Central,86455,Michael,Bradley,56 Cobb St,Minneapolis,Minnesota,United States,4047558098,4047558098,bmichael@hotmail.com,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+15,Central,86476,John H,Ernst,3309 Chase Rd,Minneapolis,Minnesota,United States,7704558118,7704558118,ejohnh@univ.edu,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+15,Central,86476,John J,Ernst,3310 Chase Rd,Minneapolis,Minnesota,United States,7704558118,7704558118,ejohnh@univ.edu,M,SALESREP,1/2/2003 0:00,1/3/2003 0:00
+15,Central,86444,Laurencio,Zabala,1638 Mohawk St,Minneapolis,Minnesota,United States,2134848515,2134848515,zlaurencio@hotmail.com,M,SALESREP,1/3/2003 0:00,1/3/2003 0:00
+16,Central,86457,Fredia M,Bradford,3093 Washington Rd,Ann Arbour,Michigan,United States,4047626374,4047626374,,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+16,Central,86489,Roderick W,Teachey,878 Peachtree St Ne,Ann Arbour,Michigan,United States,4048720732,4048720732,,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+16,Central,86457,Fredia M,Bradford,30093 Washington Rd,Ann Arbour,Michigan,United States,4047626374,4047626374,,M,MANAGER,1/2/2003 0:00,1/3/2003 0:00
+17,Central,86460,Holly,Anderson,1095 Seaboard Ave Nw,Houston,Texas,United States,4043500927,4043500927,aholly@xyz.org,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+17,Central,86467,Kiam L,Giang,470 King Arnold St,Houston,Texas,United States,4047679753,4047679753,,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+17,Central,86487,C T,Teague,1067 Alta Ave Ne,Houston,Texas,United States,4045775766,4045775766,tct@hotmail.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+17,Central,86492,Jeff G,Zeanah,9430 Huntcliff Trce,Houston,Texas,United States,7709927730,7709927730,zjeffg@hotmail.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+18,Central,86425,Alden,Pearce,11745 Montana Ave,Detroit,Michigan,United States,3104764449,3104764449,palden@yahoo.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+18,Central,86462,Kenneth A,Anderberg,77 E Andrews Dr Nw,Detroit,Michigan,United States,4042319005,4042319005,akennetha@univ.edu,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+18,Central,86488,Chad,Teague,649 Timm Valley Rd Ne,Detroit,Michigan,United States,4048691787,4048691787,tchad@mailcity.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+18,Central,86410,Jeffery M,Renlie,408 N Spaulding Ave,Detroit,Michigan,United States,3236588564,3236588564,rjefferym@hotmail.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+18,Central,86413,Daniel T,Summers,2042 W 99th St,Detroit,Michigan,United States,3237552201,3237552201,sdanielt@compuserve.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+19,East,86437,Alejandro,Mendez,228 W 49th St,New York,New York,United States,3232330062,3232330062,,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+19,East,86468,S H,Giancola,675 W Peachtree St Ne,New York,New York,United States,4045297187,4045297187,gsh@mailcity.com,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+19,East,86485,Basilio,Acain,928 Nipomo Ave,New York,New York,United States,8055281886,8055281886,abasilio@univ.edu,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+20,East,86469,Daniel G,Gialloreto,8226 Brookwood Vly Cir Ne,Baltimore,Maryland,United States,4043520264,4043520264,gdanielg@mailcity.com,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+21,East,86447,Alfred,David,3603 Dunn Dr Apt 102,Boston,Massachusetts,United States,3108371176,3108371176,dalfred@xyz.org,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+21,East,86465,John,Giblin,273 Rumson Rd Ne,Boston,Massachusetts,United States,4042379619,4042379619,gjohn@mailcity.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+21,East,86475,M H,Dobson,812 Ponce De Leon Ave Ne,Boston,Massachusetts,United States,4048926117,4048926117,dmh@hotmail.com,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+21,East,86418,Michael,Ha,3756 Cardiff Ave Apt 209,Boston,Massachusetts,United States,3105595719,3105595719,,M,SALESREP,1/3/2003 0:00,1/3/2003 0:00
+22,East,86450,Chuck,Anders,3045 Huntshire Pl,Miami,Florida,United States,7709348595,7709348595,,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+22,East,86471,John A,Ernst,3391 Kennington Ct Ne,Miami,Florida,United States,4042525899,4042525899,ejohna@geocities.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+22,East,86477,Robert W Jr,Gibeling,2466 Sharondale Dr Ne,Miami,Florida,United States,4042662730,4042662730,grobertwuniv.edu,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+22,East,86483,Laurencio,Zabala,4957 Mount Royal Dr,Miami,Florida,United States,3232579547,3232579547,zlaurencio@xyz.org,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+22,East,86404,Clement,Haddad,101 S Hayworth Ave,Miami,Florida,United States,3239396809,3239396809,hclement@yahoo.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+22,East,86404,Clement,Haddad,105 S Hayworth Ave,Miami,Florida,United States,3239396809,3239396809,hclement@yahoo.com,M,SALESREP,1/2/2003 0:00,1/3/2003 0:00
+22,East,86430,Gilbert,Fader,2831 Midvale Ave,Miami,Florida,United States,3104461497,3104461497,fgilbert@hotmail.com,M,SALESREP,1/3/2003 0:00,1/3/2003 0:00
+23,East,86421,Bruce N,Davidson,7729 Lexington Ave,Fairfax,Virginia,United States,3238826233,3238826233,dbrucen@hotmail.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+23,East,86458,Robert,Brabant,881 N Highland Ave Ne,Fairfax,Virginia,United States,4047244615,4047244615,brobert@univ.edu,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+23,East,86470,Scott,Giacobbe,420 Glenridge Clse Ct Ne,Fairfax,Virginia,United States,4042504400,4042504400,gscott@xyz.org,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+23,East,86479,Esteban,Roach,5400 Memorial Dr,Fairfax,Virginia,United States,4042986526,4042986526,,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+23,East,86490,Rich,Von Biberstein ,865 Starlight Dr Ne,Fairfax,Virginia,United States,4045310430,4045310430,,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+23,East,86421,Bruce N,Davidson,7779 Lexington Ave,Fairfax,Virginia,United States,3238826233,3238826233,dbrucen@hotmail.com,M,SALESREP,1/2/2003 0:00,1/3/2003 0:00
+24,East,86443,Armando,Quezada,5532 Allan St,Charleston,West Virginia,United States,3233429873,3233429873,qarmando@hotmail.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+24,East,86482,Boon Y,Lee,1400 S Kenmore Ave,Charleston,West Virginia,United States,2137387957,2137387957,,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+25,East,86452,Khun,Be,5543 Harold Way,Atlanta,Georgia,United States,3234688003,3234688003,bkhun@yahoo.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+25,East,86486,Fred,Roach,222 Summerset Ln Ne,Atlanta,Georgia,United States,7704819392,7704819392,rfred@hotmail.com,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+25,East,86408,Harold J,King,3165 S Barrington Ave,Atlanta,Georgia,United States,3103987506,3103987506,kharoldj@compuserve.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+25,East,,Harold J,King,,Atlanta,Georgia,United States,3103987506,3103987506,kharoldj@compuserve.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+26,East,86449,Antonio,Acala,1637 E 52d,West Palm Beach,Florida,United States,3232348348,3232348348,aantonio@hotmail.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+26,East,86493,Aloysius,Zealy,1296 Moores Mill Rd Nw,West Palm Beach,Florida,United States,4043518608,4043518608,,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+26,East,86499,Kenneth A,Anderberg,3120 New Paces Fry Rd Se,West Palm Beach,Florida,United States,7704371778,7704371778,akennetha@xyz.org,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+27,West,86494,Beau,Teague,1131 Pinhurst Dr,Phoenix,Arizona,United States,7703840477,7703840477,tbeau@xyz.org,M,MANAGER,1/3/2003 0:00,1/3/2003 0:00
+27,West,86417,Darren,Xanthos,10727 Lawler St,Phoenix,Arizona,United States,3108385276,3108385276,xdarren@yahoo.com,M,SALESREP,1/3/2003 0:00,1/3/2003 0:00
+28,West,86422,Owen,Davies,120 S Vignes St,Honolulu,Hawaii,United States,2136251538,2136251538,dowen@mailcity.com,M,SALESREP,1/3/2003 0:00,1/3/2003 0:00
+28,West,86446,Richard,Teach,1814 Village Mill Rd,Honolulu,Hawaii,United States,7703965851,7703965851,trichard@univ.edu,M,SALESREP,1/3/2003 0:00,1/3/2003 0:00
+28,West,86454,Ric R,Carrasquilla,12 Peachtree Ave Ne,Honolulu,Hawaii,United States,4048698408,4048698408,cricr@yahoo.com,M,SALESREP,1/3/2003 0:00,1/3/2003 0:00
+28,West,86495,A G,Teague,2055 Wallace Rd Sw,Honolulu,Hawaii,United States,4043442134,4043442134,,M,MANAGER,1/3/2003 0:00,1/3/2003 0:00
+29,Central,86436,Henry,Pearce Percy,23415 Sky View Ter,Indianapolis,Indiana,United States,4083532928,4083532928,phenry@univ.edu,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+29,Central,86441,Herman,Nurcanyan,10767 Rose Ave Apt 49,Indianapolis,Indiana,United States,3105594646,3105594646,nherman@hotmail.com,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+29,Central,86496,Clarence,Ernest,4046 Princeton Pl Sw,Indianapolis,Indiana,United States,4046963119,4046963119,,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
+29,Central,86405,Thomas A,Summer,17965 Helen Way,Indianapolis,Indiana,United States,4083533563,4083533563,sthomasa@xyz.org,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+29,Central,86405,Thomas A,Summer,17965 Helen Way,Indianapolis,Indiana,United States,4083533563,4085533563,sthomasa@xyz.org,M,SALESREP,1/2/2003 0:00,1/3/2003 0:00
+30,East,86473,Matthew C,Bracco,2424 Druid Oaks Ne,Greenwich,Connecticut,United States,4046345228,4046345228,bmatthewc@univ.edu,M,SALESREP,1/2/2003 0:00,1/2/2003 0:00
+30,East,86497,R,Giacalone,2123 Lenox Park Cir Ne,Greenwich,Connecticut,United States,4048488892,4048488892,gr@xyz.org,M,MANAGER,1/2/2003 0:00,1/2/2003 0:00
