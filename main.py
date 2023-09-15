@@ -4,9 +4,6 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 from src.transformation import main as runETL #De la clase transformation importar funcion main y la renombre como runETL
 
-
-
-
 # Define la función que deseas ejecutar cuando se detecte un cambio en los archivos CSV
 def trigger():
     current_time = time.strftime("%d-%m-%Y %H:%M:%S")

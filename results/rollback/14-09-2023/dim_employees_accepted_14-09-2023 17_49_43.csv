@@ -1,0 +1,100 @@
+Employee_Key,Name,Phone_Number,Fax_Number,Email,Address,Salary,Dealership_Manager,Position_Type,City,State,Region,Country
+86445.0,Casey Teague,(404) 815-0463,(404) 815-0463,,29 Peachtree Pl Nw,65500.0,1,SALESREP,San Francisco,California,West,United States
+86415.0,Alfred Fadel,(310) 552-3400,(310) 552-3400,falfred@univ.edu,2029 Century Park E,81900.0,1,MANAGER,San Francisco,California,West,United States
+86420.0,Alex David,(323) 464-5505,(323) 464-5505,dalex@geocities.com,5640 Franklin Ave,67100.0,2,SALESREP,San Diego,California,West,United States
+86423.0,Reynaldo Reniva,(213) 413-8713,(213) 413-8713,rreynaldo@geocities.com,1214 Silver Lake Blvd,84200.0,2,MANAGER,San Diego,California,West,United States
+86426.0,Carl Davidson,(408) 356-1435,(408) 356-1435,dcarl@yahoo.com,168 Belwood Ct,72100.0,2,SALESREP,San Diego,California,West,United States
+86440.0,Jolena James,(323) 732-5656,(323) 732-5656,jjolena@univ.edu,1225 S Wilton Pl,70200.0,2,SALESREP,San Diego,California,West,United States
+86474.0,Mavis Bradley,(770) 998-7461,(770) 998-7461,bmavis@yahoo.com,8601 Roberts Dr,66650.0,2,SALESREP,San Diego,California,West,United States
+86478.0,Arturo Martinez,(404) 329-9857,(404) 329-9857,marturo@xyz.org,3573 Buford Hwy Ne,69600.0,2,SALESREP,San Diego,California,West,United States
+86498.0,Henry L Andel,(404) 255-4700,(404) 255-4700,,4785 Merlendale Ct Nw,67100.0,2,SALESREP,San Diego,California,West,United States
+86414.0,Angelo Accardo,(209) 826-5752,(209) 826-5752,aangelo@compuserve.com,1242 Center Ln,80200.0,3,MANAGER,Seattle,Washington,West,United States
+86416.0,Antonio O Vela,(323) 263-6087,(323) 263-6087,,3335 Garnet St,66100.0,3,SALESREP,Seattle,Washington,West,United States
+86463.0,Kenneth Gibson,(404) 792-8233,(404) 792-8233,gkenneth@hotmail.com,189 Anderson Ave Nw,63950.0,4,SALESREP,Scottsdale,Arizona,West,United States
+86466.0,Nick Gibietis,(770) 396-6396,(770) 396-6396,gnick@univ.edu,1004 Marsh Trail Cir Ne,61950.0,4,SALESREP,Scottsdale,Arizona,West,United States
+86409.0,Joseph James,(323) 231-5681,(323) 231-5681,jjoseph@mailcity.com,221 W 41st,66100.0,4,SALESREP,Scottsdale,Arizona,West,United States
+86412.0,Bobby P Renna,(323) 856-4909,(323) 856-4909,rbobbyp@mailcity.com,1850 Whitley Ave,89200.0,4,MANAGER,Scottsdale,Arizona,West,United States
+86431.0,Anthony Vela,(323) 269-8579,(323) 269-8579,vanthony@geocities.com,131 N Record Ave,74200.0,5,SALESREP,Los Angeles,California,West,United States
+86434.0,R R Renfro,(323) 936-5604,(323) 936-5604,rrr@hotmail.com,806 S Spaulding Ave,78100.0,5,EXECUTIVE,Los Angeles,California,West,United States
+86459.0,J F Anderson,(404) 876-8794,(404) 876-8794,ajf@univ.edu,1818 Homestead Ave Ne,69500.0,5,SALESREP,Los Angeles,California,West,United States
+86406.0,Boun S Lee,(213) 386-4804,(213) 386-4804,,450 S Grand View St,89200.0,5,MANAGER,Los Angeles,California,West,United States
+86424.0,Michael Renk,(310) 390-5216,(310) 390-5216,rmichael@univ.edu,3448 Sawtelle Blvd Apt 18,87200.0,6,MANAGER,Newport Beach,California,West,United States
+86432.0,Jose P Velasco,(323) 757-9073,(323) 757-9073,vjosep@compuserve.com,1027 W 110th St,65100.0,6,SALESREP,Newport Beach,California,West,United States
+86402.0,Jeffrey James,(310) 826-5414,(310) 826-5414,jjeffrey@hotmail.com,11980 San Vicente Blvd,63100.0,6,SALESREP,Newport Beach,California,West,United States
+86403.0,Izhak Jamatty,(323) 931-8755,(323) 931-8755,jizhak@geocities.com,112 N Hayworth Ave,60250.0,6,SALESREP,Newport Beach,California,West,United States
+86427.0,J H Fadeley,(213) 380-5308,(213) 380-5308,,682 Irolo St,84234.0,7,MANAGER,Denver,Colorado,West,United States
+86453.0,Ebrahim Fadakar,(323) 664-2918,(323) 664-2918,febrahim@geocities.com,4018 Camero Ave,67390.0,7,SALESREP,Denver,Colorado,West,United States
+86481.0,Holsie King,(323) 299-9551,(323) 299-9551,,4201 Angeles Vista Blvd,68120.0,7,SALESREP,Denver,Colorado,West,United States
+86428.0,David T Acalin,(323) 937-8888,(323) 937-8888,adavidt@yahoo.com,4221 Wilshire Blvd,88240.0,8,MANAGER,Sacramento,California,West,United States
+86491.0,Christopher Von Gal,(404) 893-9977,(404) 893-9977,vchristopher@geocities.com,230 Peachtree St Nw,67550.0,8,SALESREP,Sacramento,California,West,United States
+86439.0,Hagop Jambaziam,(323) 465-3014,(323) 465-3014,jhagop@hotmail.com,1640 N Hobart Blvd,66100.0,9,SALESREP,San Jose,California,West,United States
+86411.0,Dean Renly,(323) 876-9727,(323) 876-9727,rdean@hotmail.com,7719 Lexington Ave,85250.0,9,MANAGER,San Jose,California,West,United States
+86419.0,Alan David,(310) 203-8000,(310) 203-8000,dalan@xyz.org,1925 Century Park E,64100.0,9,SALESREP,San Jose,California,West,United States
+86448.0,Bernard Davidson,(310) 839-1924,(310) 839-1924,dbernard@hotmail.com,9509 Sawyer St,68900.0,10,SALESREP,Oakland,California,West,United States
+86472.0,William A Brabson,(404) 766-8150,(404) 766-8150,bwilliama@yahoo.com,2141 Springdale Rd Sw,66600.0,10,SALESREP,Oakland,California,West,United States
+86461.0,David C Andersen,(770) 394-1706,(770) 394-1706,adavidc@geocities.com,2236 Old Brooke Ln,61500.0,10,SALESREP,Oakland,California,West,United States
+86407.0,J Kingsbury,(562) 430-5744,(562) 430-5744,kj@xyz.org,3042 Rowena Dr,89400.0,10,MANAGER,Oakland,California,West,United States
+86433.0,Harold King,(805) 528-3030,(805) 528-3030,kharold@xyz.org,630 Mar Vista Dr,86200.0,11,MANAGER,Dallas,Texas,Central,United States
+86464.0,K W Gibson,(404) 559-1493,(404) 559-1493,,2312 Surrey Trl,65950.0,11,SALESREP,Dallas,Texas,Central,United States
+86435.0,William L Summer,(310) 472-8191,(310) 472-8191,swilliaml@xyz.org,166 S Rockingham Ave,84200.0,12,MANAGER,Houston,Texas,Central,United States
+86438.0,Larry Wilbourn,(323) 586-0724,(323) 586-0724,,1014 E 73d,89200.0,13,MANAGER,Austin,Texas,Central,United States
+86484.0,A R Pearce,(310) 474-1314,(310) 474-1314,par@compuserve.com,10501 Wilshire Blvd,67100.0,13,SALESREP,Austin,Texas,Central,United States
+86401.0,Harold F King,(650) 948-5382,(650) 948-5382,kharoldf@compuserve.com,25640 Moody Rd,61200.0,13,SALESREP,Austin,Texas,Central,United States
+86442.0,Kirakosyan Nuretsa,(323) 664-5243,(323) 664-5243,nkirakosyan@yahoo.com,1428 N Normandie Ave,61300.0,14,SALESREP,Chicago,Illinois,Central,United States
+86451.0,Thomas A Acantilado,(323) 936-5458,(323) 936-5458,,2034 S Genesee Ave,91200.0,14,MANAGER,Chicago,Illinois,Central,United States
+86456.0,Melvin M Bradley,(404) 766-6145,(404) 766-6145,,4070 Morning Trl,49600.0,14,SALESREP,Chicago,Illinois,Central,United States
+86480.0,Alipio King,(310) 216-2982,(310) 216-2982,kalipio@geocities.com,7160 W 85th St Apt 1,48100.0,14,SALESREP,Chicago,Illinois,Central,United States
+86429.0,Julian Acebedo,(213) 380-7627,(213) 380-7627,,735 S Saint Andrews Pl,38100.0,15,SALESREP,Minneapolis,Minnesota,Central,United States
+86455.0,Michael Bradley,(404) 755-8098,(404) 755-8098,bmichael@hotmail.com,56 Cobb St,87200.0,15,MANAGER,Minneapolis,Minnesota,Central,United States
+86476.0,John H Ernst,(770) 455-8118,(770) 455-8118,ejohnh@univ.edu,3309 Chase Rd,69000.0,15,SALESREP,Minneapolis,Minnesota,Central,United States
+86444.0,Laurencio Zabala,(213) 484-8515,(213) 484-8515,zlaurencio@hotmail.com,1638 Mohawk St,68100.0,15,SALESREP,Minneapolis,Minnesota,Central,United States
+86457.0,Fredia M Bradford,(404) 762-6374,(404) 762-6374,,3093 Washington Rd,83200.0,16,MANAGER,Ann Arbour,Michigan,Central,United States
+86489.0,Roderick W Teachey,(404) 872-0732,(404) 872-0732,,878 Peachtree St Ne,65950.0,16,SALESREP,Ann Arbour,Michigan,Central,United States
+86460.0,Holly Anderson,(404) 350-0927,(404) 350-0927,aholly@xyz.org,1095 Seaboard Ave Nw,84100.0,17,MANAGER,Houston,Texas,Central,United States
+86467.0,Kiam L Giang,(404) 767-9753,(404) 767-9753,,470 King Arnold St,65950.0,17,SALESREP,Houston,Texas,Central,United States
+86487.0,C T Teague,(404) 577-5766,(404) 577-5766,tct@hotmail.com,1067 Alta Ave Ne,64950.0,17,SALESREP,Houston,Texas,Central,United States
+86492.0,Jeff G Zeanah,(770) 992-7730,(770) 992-7730,zjeffg@hotmail.com,9430 Huntcliff Trce,63950.0,17,SALESREP,Houston,Texas,Central,United States
+86425.0,Alden Pearce,(310) 476-4449,(310) 476-4449,palden@yahoo.com,11745 Montana Ave,72200.0,18,SALESREP,Detroit,Michigan,Central,United States
+86462.0,Kenneth A Anderberg,(404) 231-9005,(404) 231-9005,akennetha@univ.edu,77 E Andrews Dr Nw,83800.0,18,MANAGER,Detroit,Michigan,Central,United States
+86488.0,Chad Teague,(404) 869-1787,(404) 869-1787,tchad@mailcity.com,649 Timm Valley Rd Ne,62950.0,18,SALESREP,Detroit,Michigan,Central,United States
+86410.0,Jeffery M Renlie,(323) 658-8564,(323) 658-8564,rjefferym@hotmail.com,408 N Spaulding Ave,64100.0,18,SALESREP,Detroit,Michigan,Central,United States
+86413.0,Daniel T Summers,(323) 755-2201,(323) 755-2201,sdanielt@compuserve.com,2042 W 99th St,78900.0,18,SALESREP,Detroit,Michigan,Central,United States
+86437.0,Alejandro Mendez,(323) 233-0062,(323) 233-0062,,228 W 49th St,58100.0,19,SALESREP,New York,New York,East,United States
+86468.0,S H Giancola,(404) 529-7187,(404) 529-7187,gsh@mailcity.com,675 W Peachtree St Ne,81900.0,19,MANAGER,New York,New York,East,United States
+86485.0,Basilio Acain,(805) 528-1886,(805) 528-1886,abasilio@univ.edu,928 Nipomo Ave,62100.0,19,SALESREP,New York,New York,East,United States
+86469.0,Daniel G Gialloreto,(404) 352-0264,(404) 352-0264,gdanielg@mailcity.com,8226 Brookwood Vly Cir Ne,82000.0,20,MANAGER,Baltimore,Maryland,East,United States
+86447.0,Alfred David,(310) 837-1176,(310) 837-1176,dalfred@xyz.org,3603 Dunn Dr Apt 102,68500.0,21,SALESREP,Boston,Massachusetts,East,United States
+86465.0,John Giblin,(404) 237-9619,(404) 237-9619,gjohn@mailcity.com,273 Rumson Rd Ne,65950.0,21,SALESREP,Boston,Massachusetts,East,United States
+86475.0,M H Dobson,(404) 892-6117,(404) 892-6117,dmh@hotmail.com,812 Ponce De Leon Ave Ne,83200.0,21,MANAGER,Boston,Massachusetts,East,United States
+86418.0,Michael Ha,(310) 559-5719,(310) 559-5719,,3756 Cardiff Ave Apt 209,64200.0,21,SALESREP,Boston,Massachusetts,East,United States
+86450.0,Chuck Anders,(770) 934-8595,(770) 934-8595,,3045 Huntshire Pl,66600.0,22,SALESREP,Miami,Florida,East,United States
+86471.0,John A Ernst,(404) 252-5899,(404) 252-5899,ejohna@geocities.com,3391 Kennington Ct Ne,65500.0,22,SALESREP,Miami,Florida,East,United States
+86477.0,Robert W Jr Gibeling,(404) 266-2730,(404) 266-2730,grobertwuniv.edu,2466 Sharondale Dr Ne,83200.0,22,MANAGER,Miami,Florida,East,United States
+86483.0,Laurencio Zabala,(323) 257-9547,(323) 257-9547,zlaurencio@xyz.org,4957 Mount Royal Dr,67100.0,22,SALESREP,Miami,Florida,East,United States
+86404.0,Clement Haddad,(323) 939-6809,(323) 939-6809,hclement@yahoo.com,101 S Hayworth Ave,66100.0,22,SALESREP,Miami,Florida,East,United States
+86430.0,Gilbert Fader,(310) 446-1497,(310) 446-1497,fgilbert@hotmail.com,2831 Midvale Ave,64200.0,22,SALESREP,Miami,Florida,East,United States
+86421.0,Bruce N Davidson,(323) 882-6233,(323) 882-6233,dbrucen@hotmail.com,7729 Lexington Ave,49100.0,23,SALESREP,Fairfax,Virginia,East,United States
+86458.0,Robert Brabant,(404) 724-4615,(404) 724-4615,brobert@univ.edu,881 N Highland Ave Ne,76600.0,23,SALESREP,Fairfax,Virginia,East,United States
+86470.0,Scott Giacobbe,(404) 250-4400,(404) 250-4400,gscott@xyz.org,420 Glenridge Clse Ct Ne,65950.0,23,SALESREP,Fairfax,Virginia,East,United States
+86479.0,Esteban Roach,(404) 298-6526,(404) 298-6526,,5400 Memorial Dr,84250.0,23,MANAGER,Fairfax,Virginia,East,United States
+86490.0,Rich Von Biberstein ,(404) 531-0430,(404) 531-0430,,865 Starlight Dr Ne,65950.0,23,SALESREP,Fairfax,Virginia,East,United States
+86443.0,Armando Quezada,(323) 342-9873,(323) 342-9873,qarmando@hotmail.com,5532 Allan St,64100.0,24,SALESREP,Charleston,West Virginia,East,United States
+86482.0,Boon Y Lee,(213) 738-7957,(213) 738-7957,,1400 S Kenmore Ave,84200.0,24,MANAGER,Charleston,West Virginia,East,United States
+86452.0,Khun Be,(323) 468-8003,(323) 468-8003,bkhun@yahoo.com,5543 Harold Way,68500.0,25,SALESREP,Atlanta,Georgia,East,United States
+86486.0,Fred Roach,(770) 481-9392,(770) 481-9392,rfred@hotmail.com,222 Summerset Ln Ne,82900.0,25,MANAGER,Atlanta,Georgia,East,United States
+86408.0,Harold J King,(310) 398-7506,(310) 398-7506,kharoldj@compuserve.com,3165 S Barrington Ave,72000.0,25,SALESREP,Atlanta,Georgia,East,United States
+86449.0,Antonio Acala,(323) 234-8348,(323) 234-8348,aantonio@hotmail.com,1637 E 52d,70000.0,26,SALESREP,West Palm Beach,Florida,East,United States
+86493.0,Aloysius Zealy,(404) 351-8608,(404) 351-8608,,1296 Moores Mill Rd Nw,83900.0,26,MANAGER,West Palm Beach,Florida,East,United States
+86499.0,Kenneth A Anderberg,(770) 437-1778,(770) 437-1778,akennetha@xyz.org,3120 New Paces Fry Rd Se,62900.0,26,SALESREP,West Palm Beach,Florida,East,United States
+86494.0,Beau Teague,(770) 384-0477,(770) 384-0477,tbeau@xyz.org,1131 Pinhurst Dr,81950.0,27,MANAGER,Phoenix,Arizona,West,United States
+86417.0,Darren Xanthos,(310) 838-5276,(310) 838-5276,xdarren@yahoo.com,10727 Lawler St,62100.0,27,SALESREP,Phoenix,Arizona,West,United States
+86422.0,Owen Davies,(213) 625-1538,(213) 625-1538,dowen@mailcity.com,120 S Vignes St,64200.0,28,SALESREP,Honolulu,Hawaii,West,United States
+86446.0,Richard Teach,(770) 396-5851,(770) 396-5851,trichard@univ.edu,1814 Village Mill Rd,67300.0,28,SALESREP,Honolulu,Hawaii,West,United States
+86454.0,Ric R Carrasquilla,(404) 869-8408,(404) 869-8408,cricr@yahoo.com,12 Peachtree Ave Ne,65800.0,28,SALESREP,Honolulu,Hawaii,West,United States
+86495.0,A G Teague,(404) 344-2134,(404) 344-2134,,2055 Wallace Rd Sw,86200.0,28,MANAGER,Honolulu,Hawaii,West,United States
+86436.0,Henry Pearce Percy,(408) 353-2928,(408) 353-2928,phenry@univ.edu,23415 Sky View Ter,74100.0,29,SALESREP,Indianapolis,Indiana,Central,United States
+86441.0,Herman Nurcanyan,(310) 559-4646,(310) 559-4646,nherman@hotmail.com,10767 Rose Ave Apt 49,68100.0,29,SALESREP,Indianapolis,Indiana,Central,United States
+86496.0,Clarence Ernest,(404) 696-3119,(404) 696-3119,,4046 Princeton Pl Sw,85200.0,29,MANAGER,Indianapolis,Indiana,Central,United States
+86405.0,Thomas A Summer,(408) 353-3563,(408) 353-3563,sthomasa@xyz.org,17965 Helen Way,68100.0,29,SALESREP,Indianapolis,Indiana,Central,United States
+86473.0,Matthew C Bracco,(404) 634-5228,(404) 634-5228,bmatthewc@univ.edu,2424 Druid Oaks Ne,56600.0,30,SALESREP,Greenwich,Connecticut,East,United States
+86497.0,R Giacalone,(404) 848-8892,(404) 848-8892,gr@xyz.org,2123 Lenox Park Cir Ne,83200.0,30,MANAGER,Greenwich,Connecticut,East,United States
