@@ -40,5 +40,5 @@ Start project
 
 ## Captura de pantalla
 
-![App Screenshot](https://ibb.co/TWng4dZ)
+![App Screenshot](https://github.com/feergm/Softtek_Caso_Practico_ETL/blob/main/img/ss.jpg)
 
